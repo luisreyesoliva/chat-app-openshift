@@ -1,1 +1,1 @@
-# chat-app-openshift
+# Chat-app-openshift
