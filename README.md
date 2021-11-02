@@ -6,14 +6,15 @@ Utilizaremos Red Hat Openshift como nuestra plataforma de referencia para desple
 ### Este workshop cubre:
 
 - Los 'basics' de la tecnología de contenedores
-- Cómo conteinerizar una aplicación en tu propia máquina - Cómo desplegar una aplicación conteinerizada en un cluster de Red Hat Openshift sobre IBM Cloud
+- Cómo conteinerizar una aplicación en tu propia máquina
+- Cómo desplegar una aplicación conteinerizada en un cluster de Red Hat Openshift sobre IBM Cloud
 
 ## 🔥 Prerequisitos 🔥
 
 - Contar con una cuenta de IBM Cloud: [IBM Cloud Signup](https://ibm.biz/BdfgtB)
 - Tener Node.js instalado en tu máquina, ya sea Linux, Windows o Mac. [Download Page](https://nodejs.org/en/)
 - Tener Docker instalado en tu maquina, puedes usar también el software de Docker Desktop si es que no tienes mucha experiencia con Docker.  [Download Page](https://www.docker.com/products/docker-desktop)
-- Código de nuestra aplicación de chat (cedido amáblemente por nuestro compañero Bradston Henry): [Simple Chat App Repo](http://ibm.biz/simple-chat-app-repo-bradstondev)
+- Código de nuestra aplicación de chat (basado en el código cedido amáblemente por nuestro compañero Bradston Henry): [Simple Chat App Repo](https://github.com/luisreyesoliva/simple-chat-app)
 - Acceso a un cluster de Red Hat Open Shift (ver pasos a continuación)
 
 ## Solicitar acceso al cluster de Openshift
